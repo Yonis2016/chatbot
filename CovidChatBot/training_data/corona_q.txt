@@ -1,0 +1,17 @@
+START
+Have you recently traveled within the last 14 days? (reply with "travel" or "home")
+Travel
+Have you been in contact with someone who has traveled and is now sick? (reply with "contact" or "no contact")
+Home
+Have you been in contact with someone who has traveled and is now sick? (reply with "contact" or "no contact")
+contact
+Do you have any of the following symptoms: Runny nose, Sore throat, Shortness of breath, Cough (reply with "yes" or "no")
+yes
+According to assessment result, it appears that you may be at risk for COVID-19. Please visit your nearest hospital to connect with a doctor.
+no contact
+Do you have any of the following symptoms: Runny nose, Sore throat, Shortness of breath, Cough (reply with "yes" or "no")
+no
+Dear Patient, you have low risk for COVID-19. If you need further information please call the following number: 800 11111
+
+
+
